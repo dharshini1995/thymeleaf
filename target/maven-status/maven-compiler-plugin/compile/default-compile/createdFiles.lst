@@ -1,0 +1,4 @@
+com\thymeleaf\controller\MainController.class
+com\thymeleaf\form\PersonForm.class
+com\thymeleaf\model\Person.class
+com\thymeleaf\controller\SpringMainAppEntry.class

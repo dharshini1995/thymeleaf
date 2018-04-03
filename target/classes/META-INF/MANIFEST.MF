@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: thymeleaf2springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 680854
+Implementation-Vendor-Id: thymeleaf2
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/thymeleaf2springboot
+Created-By: Maven Integration for Eclipse
+
